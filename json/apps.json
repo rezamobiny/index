@@ -77,7 +77,6 @@
   },
   {
     "name": "Hiddify",
-    "urlScheme": "hiddify://import-profile",
     "image": "https://hiddify.com/logo.png",
     "link": "hiddify://import-profile?url={url}",
     "os": ["iOS", "Android", "Windows"],
