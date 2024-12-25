@@ -27,8 +27,8 @@
           "downloadLink": "https://github.com/MatsuriDayo/nekoray/releases/latest",
           "videoLink": "https://example.com/nekoray-video"
         }
-      ]
-    },
+       ]
+
     {
       "name": "لینوکس",
       "engName": "Linux",
@@ -66,4 +66,3 @@
       ]
     }
   ]
-}
