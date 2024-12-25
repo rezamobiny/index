@@ -8,7 +8,7 @@
         {
           "name": "Hiddify",
           "price": "0",
-          "logo": "https://raw.githubusercontent.com/rezamobiny/index/refs/heads/main/icons/hiddify.png",
+          "logo": "https://raw.githubusercontent.com/rezamobiny/index/refs/heads/main/icons/hiddify.jpg",
           "description": "A secure and fast proxy client for iOS.",
           "faDescription": "هیدیفای یک کلاینت پراکسی امن و سریع برای iOS است.",
           "configLink": "hiddify://import-profile?url={url}",
@@ -45,7 +45,7 @@
         {
           "name": "Hiddify",
           "price": "0",
-          "logo": "https://raw.githubusercontent.com/rezamobiny/index/refs/heads/main/icons/hiddify.png",
+          "logo": "https://raw.githubusercontent.com/rezamobiny/index/refs/heads/main/icons/hiddify.jpg",
           "description": "A secure and fast proxy client for Android devices.",
           "faDescription": "هیدیفای یک کلاینت پراکسی امن و سریع برای دستگاه‌های اندرویدی است.",
           "configLink": "hiddify://import-profile?url={url}",
@@ -83,7 +83,7 @@
         {
           "name": "Hiddify",
           "price": "0",
-          "logo": "https://raw.githubusercontent.com/rezamobiny/index/refs/heads/main/icons/hiddify.png",
+          "logo": "https://raw.githubusercontent.com/rezamobiny/index/refs/heads/main/icons/hiddify.jpg",
           "description": "A secure and fast proxy client for Windows.",
           "faDescription": "هیدیفای یک کلاینت پراکسی امن و سریع برای ویندوز است.",
           "configLink": "hiddify://import-profile?url={url}",
@@ -118,11 +118,11 @@
         {
           "name": "Hiddify",
           "price": "0",
-          "logo": "https://raw.githubusercontent.com/rezamobiny/index/refs/heads/main/icons/hiddify.png",
+          "logo": "https://raw.githubusercontent.com/rezamobiny/index/refs/heads/main/icons/hiddify.jpg",
           "description": "A secure and fast proxy client for Linux.",
           "faDescription": "هیدیفای یک کلاینت پراکسی امن و سریع برای لینوکس است.",
           "configLink": "hiddify://import-profile?url={url}",
-          "downloadLink": "https://github.com/hiddify/hiddify-next/releases/latest/download/Hiddify-Linux.tar.gz",
+          "downloadLink": "https://github.com/hiddify/hiddify-next/releases/latest/download/Hiddify-Linux-x64.AppImage",
           "videoLink": "https://example.com/hiddify-video"
         },
         {
