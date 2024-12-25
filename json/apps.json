@@ -74,5 +74,18 @@
       "Linux": "https://github.com/SagerNet/sing-box/releases/download/v1.10.1/sing-box_1.10.1_linux_386.deb"
     },
     "ShowInMenu": false
+  },
+  {
+    "name": "Hiddify",
+    "urlScheme": "hiddify://import-profile",
+    "image": "https://hiddify.com/logo.png",
+    "link": "hiddify://import-profile?url={url}",
+    "os": ["iOS", "Android", "Windows"],
+    "downloadLinks": {
+      "iOS": "https://apps.apple.com/us/app/hiddify-proxy-vpn/id6596777532?platform=iphone",
+      "Android": "https://github.com/hiddify/hiddify-next/releases/latest/download/Hiddify-Android-universal.apk",
+      "Windows": "https://github.com/hiddify/hiddify-next/releases/latest/download/Hiddify-Windows-Setup-x64.exe"
+    },
+    "ShowInMenu": true
   }
 ]
