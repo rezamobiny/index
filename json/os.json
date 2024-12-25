@@ -8,12 +8,12 @@
         {
           "name": "Hiddify",
           "price": "0",
-          "logo": "https://raw.githubusercontent.com/rezamobiny/index/refs/heads/main/icons/hiddify.jpg",
+          "logo": "https://raw.githubusercontent.com/rezamobiny/index/refs/heads/main/icons/Hiddify.jpg",
           "description": "A secure and fast proxy client for iOS.",
           "faDescription": "هیدیفای یک کلاینت پراکسی امن و سریع برای iOS است.",
-          "configLink": "hiddify://import-profile?url={url}",
-          "downloadLink": "https://apps.apple.com/us/app/hiddify-proxy-vpn/id6596777532?platform=iphone",
-          "videoLink": "https://example.com/hiddify-video"
+          "configLink": "Hiddify://import-profile?url={url}",
+          "downloadLink": "https://apps.apple.com/us/app/Hiddify-proxy-vpn/id6596777532?platform=iphone",
+          "videoLink": "https://example.com/Hiddify-video"
         },
         {
           "name": "Streisand",
@@ -45,12 +45,12 @@
         {
           "name": "Hiddify",
           "price": "0",
-          "logo": "https://raw.githubusercontent.com/rezamobiny/index/refs/heads/main/icons/hiddify.jpg",
+          "logo": "https://raw.githubusercontent.com/rezamobiny/index/refs/heads/main/icons/Hiddify.jpg",
           "description": "A secure and fast proxy client for Android devices.",
           "faDescription": "هیدیفای یک کلاینت پراکسی امن و سریع برای دستگاه‌های اندرویدی است.",
-          "configLink": "hiddify://import-profile?url={url}",
-          "downloadLink": "https://github.com/hiddify/hiddify-next/releases/latest/download/Hiddify-Android-universal.apk",
-          "videoLink": "https://example.com/hiddify-video"
+          "configLink": "Hiddify://import-profile?url={url}",
+          "downloadLink": "https://github.com/Hiddify/Hiddify-next/releases/latest/download/Hiddify-Android-universal.apk",
+          "videoLink": "https://example.com/Hiddify-video"
         },
         {
           "name": "V2rayNG",
@@ -83,12 +83,12 @@
         {
           "name": "Hiddify",
           "price": "0",
-          "logo": "https://raw.githubusercontent.com/rezamobiny/index/refs/heads/main/icons/hiddify.jpg",
+          "logo": "https://raw.githubusercontent.com/rezamobiny/index/refs/heads/main/icons/Hiddify.jpg",
           "description": "A secure and fast proxy client for Windows.",
           "faDescription": "هیدیفای یک کلاینت پراکسی امن و سریع برای ویندوز است.",
-          "configLink": "hiddify://import-profile?url={url}",
-          "downloadLink": "https://github.com/hiddify/hiddify-next/releases/latest/download/Hiddify-Windows-Setup-x64.exe",
-          "videoLink": "https://example.com/hiddify-video"
+          "configLink": "Hiddify://import-profile?url={url}",
+          "downloadLink": "https://github.com/Hiddify/Hiddify-next/releases/latest/download/Hiddify-Windows-Setup-x64.exe",
+          "videoLink": "https://example.com/Hiddify-video"
         },
         {
           "name": "V2rayN",
@@ -118,12 +118,12 @@
         {
           "name": "Hiddify",
           "price": "0",
-          "logo": "https://raw.githubusercontent.com/rezamobiny/index/refs/heads/main/icons/hiddify.jpg",
+          "logo": "https://raw.githubusercontent.com/rezamobiny/index/refs/heads/main/icons/Hiddify.jpg",
           "description": "A secure and fast proxy client for Linux.",
           "faDescription": "هیدیفای یک کلاینت پراکسی امن و سریع برای لینوکس است.",
-          "configLink": "hiddify://import-profile?url={url}",
-          "downloadLink": "https://github.com/hiddify/hiddify-next/releases/latest/download/Hiddify-Linux-x64.AppImage",
-          "videoLink": "https://example.com/hiddify-video"
+          "configLink": "Hiddify://import-profile?url={url}",
+          "downloadLink": "https://github.com/Hiddify/Hiddify-next/releases/latest/download/Hiddify-Linux-x64.AppImage",
+          "videoLink": "https://example.com/Hiddify-video"
         },
         {
           "name": "Nekoray",
