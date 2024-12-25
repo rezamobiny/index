@@ -2,7 +2,7 @@
         {
           "name": "Hiddify",
           "price": "0",
-          "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/hiddify.png",
+          "logo": "https://raw.githubusercontent.com/rezamobiny/index/refs/heads/main/icons/hiddify.png",
           "description": "A secure and fast proxy client for Windows.",
           "faDescription": "هیدیفای یک کلاینت پراکسی امن و سریع برای ویندوز است.",
           "configLink": "hiddify://import-profile?url={url}",
@@ -12,7 +12,7 @@
         {
           "name": "V2rayN",
           "price": "0",
-          "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/v2rayN.png",
+          "logo": "https://raw.githubusercontent.com/rezamobiny/index/refs/heads/main/icons/v2rayN.png",
           "description": "A Windows V2Ray client with GUI support.",
           "faDescription": "v2rayN یک کلاینت V2Ray برای ویندوز با پشتیبانی از رابط کاربری است.",
           "downloadLink": "https://github.com/2dust/v2rayN/releases/latest/download/v2rayN-windows-64-With-Core.zip",
@@ -21,7 +21,7 @@
         {
           "name": "Nekoray",
           "price": "0",
-          "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/nekoray.jpeg",
+          "logo": "https://raw.githubusercontent.com/rezamobiny/index/refs/heads/main/icons/nekoray.jpeg",
           "description": "A cross-platform GUI client for V2Ray.",
           "faDescription": "NekoRay یک کلاینت GUI چندسکویی برای V2Ray است.",
           "downloadLink": "https://github.com/MatsuriDayo/nekoray/releases/latest",
@@ -32,12 +32,12 @@
     {
       "name": "لینوکس",
       "engName": "Linux",
-      "osLogo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/Tux.png",
+      "osLogo": "https://raw.githubusercontent.com/rezamobiny/index/refs/heads/main/icons/Tux.png",
       "apps": [
         {
           "name": "Hiddify",
           "price": "0",
-          "logo": "https://github.com/d8a8c3a1-0ef3-4b68-ac2e-f2c78aa3b092",
+          "logo": "https://raw.githubusercontent.com/rezamobiny/index/refs/heads/main/icons/Hiddify.jpg",
           "description": "A secure and fast proxy client for Linux.",
           "faDescription": "هیدیفای یک کلاینت پراکسی امن و سریع برای لینوکس است.",
           "configLink": "hiddify://import-profile?url={url}",
@@ -47,7 +47,7 @@
         {
           "name": "Nekoray",
           "price": "0",
-          "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/nekoray.jpeg",
+          "logo": "https://raw.githubusercontent.com/rezamobiny/index/refs/heads/main/icons/nekoray.jpeg",
           "description": "A cross-platform GUI client for V2Ray.",
           "faDescription": "NekoRay یک کلاینت GUI چندسکویی برای V2Ray است.",
           "downloadLink": "https://github.com/MatsuriDayo/nekoray/releases/latest",
@@ -56,7 +56,7 @@
         {
           "name": "SingBox",
           "price": "0",
-          "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/singbox.png",
+          "logo": "https://raw.githubusercontent.com/rezamobiny/index/refs/heads/main/icons/singbox.png",
           "description": "A client that provides a platform for routing traffic securely.",
           "faDescription": "Sing-box یک کلاینت برای مسیریابی امن ترافیک فراهم می‌کند.",
           "configLink": "sing-box://import-remote-profile?url={url}#MattSub",
