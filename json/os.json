@@ -11,7 +11,7 @@
           "logo": "https://raw.githubusercontent.com/rezamobiny/index/refs/heads/main/icons/Hiddify.jpg",
           "description": "A secure and fast proxy client for iOS.",
           "faDescription": "هیدیفای یک کلاینت پراکسی امن و سریع برای iOS است.",
-          "configLink": "Hiddify://import-profile?url={url}",
+          "configLink": "Hiddify://import/{url}",
           "downloadLink": "https://apps.apple.com/us/app/Hiddify-proxy-vpn/id6596777532?platform=iphone",
           "videoLink": "https://example.com/Hiddify-video"
         },
