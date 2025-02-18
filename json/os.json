@@ -76,7 +76,7 @@
           "logo": "https://raw.githubusercontent.com/rezamobiny/index/refs/heads/main/icons/Hiddify.jpg",
           "description": "A secure and fast proxy client for Windows.",
           "faDescription": "هیدیفای یک کلاینت پراکسی امن و سریع برای ویندوز است.",
-          "configLink": "Hiddify://import-profile?url={url}",
+          "configLink": "Hiddify://import/{url}",
           "downloadLink": "https://github.com/Hiddify/Hiddify-next/releases/latest/download/Hiddify-Windows-Setup-x64.exe",
           "videoLink": "https://example.com/Hiddify-video"
         },
@@ -86,6 +86,7 @@
           "logo": "https://raw.githubusercontent.com/rezamobiny/index/refs/heads/main/icons/v2rayN.png",
           "description": "A Windows V2Ray client with GUI support.",
           "faDescription": "v2rayN یک کلاینت V2Ray برای ویندوز با پشتیبانی از رابط کاربری است.",
+          "configLink": "V2rayN://import/{url}",
           "downloadLink": "https://github.com/2dust/v2rayN/releases/latest/download/v2rayN-windows-64-With-Core.zip",
           "videoLink": "https://example.com/v2rayn-video"
         },
@@ -95,6 +96,7 @@
           "logo": "https://raw.githubusercontent.com/rezamobiny/index/refs/heads/main/icons/nekoray.jpeg",
           "description": "A cross-platform GUI client for V2Ray.",
           "faDescription": "NekoRay یک کلاینت GUI چندسکویی برای V2Ray است.",
+          "configLink": "Nekoray://import/{url}",
           "downloadLink": "https://github.com/MatsuriDayo/nekoray/releases/latest",
           "videoLink": "https://example.com/nekoray-video"
         }
