@@ -48,7 +48,7 @@
           "logo": "https://raw.githubusercontent.com/rezamobiny/index/refs/heads/main/icons/Hiddify.jpg",
           "description": "A secure and fast proxy client for Android devices.",
           "faDescription": "هیدیفای یک کلاینت پراکسی امن و سریع برای دستگاه‌های اندرویدی است.",
-          "configLink": "Hiddify://import-profile?url={url}",
+          "configLink": "Hiddify://install-config?url={url}",
           "downloadLink": "https://github.com/Hiddify/Hiddify-next/releases/latest/download/Hiddify-Android-universal.apk",
           "videoLink": "https://example.com/Hiddify-video"
         },
